@@ -1,0 +1,4 @@
+Версия: 1.0  
+Дата: 2025-05-16  
+VITA_ID: ZAM_2025-05-16  
+IPFS-хэш: QmUuMRBvCwxtU9SUZTLo4TqLezPy6eMwNaM3LJJ5iZGU3q

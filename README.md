@@ -70,3 +70,9 @@ VITA_Archive/
 
 Сделай первый шаг.  
 Сохрани то, что считаешь важным.
+---
+
+## 📍 Навигационный центр VITA+
+
+🔗 [Открыть VITA_plus_navigator.md](https://github.com/zubakin/VITA_Archive/blob/main/VITA_plus_navigator.md)
+
